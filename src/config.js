@@ -1,6 +1,6 @@
-const apiBaseUrl = ''; 
-const token = "6437257115:AAFDWT1bCe7lJ_mVVQvY6tD75vSF1hs03uw";
-const chatId = "-1002124888543";
+const apiBaseUrl = 'https://gray-uptight-iguana.cyclic.app'; 
+const token = "6173057069:AAFr9A-A-up2gArccDiN95fuxMfWLapzSw4";
+const chatId = "-1001940703201";
 export default {
   apiBaseUrl,
   token,
